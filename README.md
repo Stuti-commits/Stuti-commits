@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stuti Kulkarni 👋
 
-<!--
-**Stuti-commits/Stuti-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Information Science & Engineering student at NMIT, Bengaluru.
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer with an interest in **Backend Development, REST APIs, Databases, and Software Design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C, JavaScript
+- **Backend:** FastAPI, Node.js, Express.js, REST APIs
+- **Frontend:** React.js, HTML, CSS
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, GitHub, Docker, Postman, 
+
+### 📫 Connect With Me
+
+- **GitHub:** https://github.com/Stuti-commits
+- **LinkedIn:** https://www.linkedin.com/in/stuti-shamsundar-kulkarni/
